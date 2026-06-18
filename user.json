@@ -833,7 +833,8 @@
     {
       "device_id": "779a04cd58ad08436a23",
       "nama": "RullZzz",
-      "tanggal_daftar": "08-06-2026"
+      "tanggal_daftar": "08-06-2026",
+      "ban": true
     },
     {
       "device_id": "4b477ff68a370784f464",
