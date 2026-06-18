@@ -511,7 +511,8 @@
     {
       "device_id": "b7a3bd9ae4d022536405",
       "nama": "UCOP",
-      "tanggal_daftar": "30-05-2026"
+      "tanggal_daftar": "30-05-2026",
+      "ban": true
     },
     {
       "device_id": "1476401af22d6736fe87",
