@@ -869,7 +869,8 @@
     {
       "device_id": "776422145deb0bb5c85e",
       "nama": "Night77",
-      "tanggal_daftar": "10-06-2026"
+      "tanggal_daftar": "10-06-2026",
+      "ban": true
     },
     {
       "device_id": "11edee0c2c8d81bdda18",
