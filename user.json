@@ -293,7 +293,8 @@
     {
       "device_id": "6899ead378310a55f623",
       "nama": "Jeffz",
-      "tanggal_daftar": "25-05-2026"
+      "tanggal_daftar": "25-05-2026",
+      "ban": true
     },
     {
       "device_id": "d3ad14bef5004ebc9705",
