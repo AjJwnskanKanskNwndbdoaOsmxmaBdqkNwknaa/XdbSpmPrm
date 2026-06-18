@@ -759,7 +759,8 @@
     {
       "device_id": "306bd36b6a653048bde8",
       "nama": "DrkFire",
-      "tanggal_daftar": "05-06-2026"
+      "tanggal_daftar": "05-06-2026",
+      "ban": true
     },
     {
       "device_id": "f983634127a54ea80397",
