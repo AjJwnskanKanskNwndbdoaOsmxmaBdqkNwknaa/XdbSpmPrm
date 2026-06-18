@@ -858,7 +858,8 @@
     {
       "device_id": "cef31ed3dbac0ac07134",
       "nama": "Achiles",
-      "tanggal_daftar": "10-06-2026"
+      "tanggal_daftar": "10-06-2026",
+      "ban": true
     },
     {
       "device_id": "839262c27d66bd5d0d07",
