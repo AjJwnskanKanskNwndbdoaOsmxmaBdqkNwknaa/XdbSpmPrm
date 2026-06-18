@@ -24,7 +24,8 @@
     {
       "device_id": "072f00f0e4178158419d",
       "nama": "Fann",
-      "tanggal_daftar": "23-05-2026"
+      "tanggal_daftar": "23-05-2026",
+      "ban": true
     },
     {
       "device_id": "92e6a6f61a9563138f8e",
