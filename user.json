@@ -774,7 +774,8 @@
     {
       "device_id": "6dbdb00604d93b7151fe",
       "nama": "Clekk",
-      "tanggal_daftar": "06-06-2026"
+      "tanggal_daftar": "06-06-2026",
+      "ban": true
     },
     {
       "device_id": "d4969cf5ba3eed981d99",
