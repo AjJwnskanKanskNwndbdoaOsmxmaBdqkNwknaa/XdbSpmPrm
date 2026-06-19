@@ -650,7 +650,8 @@
     {
       "device_id": "f308729c7d5096060fbb",
       "nama": "Adrianz",
-      "tanggal_daftar": "03-06-2026"
+      "tanggal_daftar": "03-06-2026",
+      "ban": true
     },
     {
       "device_id": "0eec97796487819e5324",
