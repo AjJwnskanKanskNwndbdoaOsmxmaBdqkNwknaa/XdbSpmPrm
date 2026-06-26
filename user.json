@@ -1354,7 +1354,8 @@
     {
       "device_id": "46eb9d5e807578b6adb2",
       "nama": "EvilZeo",
-      "tanggal_daftar": "25-06-2026"
+      "tanggal_daftar": "25-06-2026",
+      "ban": true
     },
     {
       "device_id": "8f083110d400c57e1980",
