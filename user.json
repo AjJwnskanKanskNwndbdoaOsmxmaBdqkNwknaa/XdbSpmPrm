@@ -1047,7 +1047,8 @@
     {
       "device_id": "8ed400db78d65b730d63",
       "nama": "D4rkZ",
-      "tanggal_daftar": "16-06-2026"
+      "tanggal_daftar": "16-06-2026",
+      "ban": true
     },
     {
       "device_id": "00c343ce555a812d1ed7",
