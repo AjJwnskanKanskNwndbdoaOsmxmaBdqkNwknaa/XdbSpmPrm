@@ -332,7 +332,8 @@
       "device_id": "e18f2a376b0afaae323e",
       "nama": "Putraku",
       "tanggal_daftar": "26-05-2026",
-      "status": "Orang Jelek"
+      "status": "Orang Jelek",
+      "ban": true
     },
     {
       "device_id": "3e53226f51dbdf276199",
