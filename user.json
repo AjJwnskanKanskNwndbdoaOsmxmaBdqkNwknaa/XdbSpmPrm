@@ -1376,7 +1376,8 @@
     {
       "device_id": "d608c8cd0e7dca6f5649",
       "nama": "GALZX",
-      "tanggal_daftar": "26-06-2026"
+      "tanggal_daftar": "26-06-2026",
+      "ban": true
     }
   ]
 }
