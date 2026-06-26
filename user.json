@@ -1364,7 +1364,8 @@
     {
       "device_id": "ec40b07da2be920a0200",
       "nama": "Nopal",
-      "tanggal_daftar": "25-06-2026"
+      "tanggal_daftar": "25-06-2026",
+      "ban": true
     },
     {
       "device_id": "95ac8c3d01abce305d5f",
