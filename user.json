@@ -717,7 +717,8 @@
     {
       "device_id": "e9436496b2f274744884",
       "nama": "Jonkcoo",
-      "tanggal_daftar": "05-06-2026"
+      "tanggal_daftar": "05-06-2026",
+      "ban": true
     },
     {
       "device_id": "f109cce656b0d0ae06a8",
