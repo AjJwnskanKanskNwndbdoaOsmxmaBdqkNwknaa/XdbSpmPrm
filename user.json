@@ -1329,7 +1329,8 @@
     {
       "device_id": "f4e4fe70275205453993",
       "nama": "Khoiron",
-      "tanggal_daftar": "24-06-2026"
+      "tanggal_daftar": "24-06-2026",
+      "ban": true
     },
     {
       "device_id": "fc6d84e68cd216a540b8",
