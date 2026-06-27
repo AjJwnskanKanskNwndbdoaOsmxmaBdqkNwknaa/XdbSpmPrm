@@ -1408,7 +1408,8 @@
     {
       "device_id": "4ab8751a9e4be257256f",
       "nama": "REYZOEL",
-      "tanggal_daftar": "27-06-2026"
+      "tanggal_daftar": "27-06-2026",
+      "ban": true
     }
   ]
 }
