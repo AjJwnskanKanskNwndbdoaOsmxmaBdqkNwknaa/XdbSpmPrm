@@ -816,7 +816,8 @@
     {
       "device_id": "264a62e987a9f08a5e71",
       "nama": "Zack",
-      "tanggal_daftar": "07-06-2026"
+      "tanggal_daftar": "07-06-2026",
+      "ban": true
     },
     {
       "device_id": "3f1779df80ccd325f44e",
