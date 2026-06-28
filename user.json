@@ -1425,7 +1425,8 @@
     {
       "device_id": "7e2f9b40180d0ba60683",
       "nama": "Rina77",
-      "tanggal_daftar": "28-06-2026"
+      "tanggal_daftar": "28-06-2026",
+      "ban": true
     }
   ]
 }
