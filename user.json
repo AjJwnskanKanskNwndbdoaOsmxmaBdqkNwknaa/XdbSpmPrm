@@ -1436,7 +1436,8 @@
     {
       "device_id": "7271bf6b214caa64e3b9",
       "nama": "Ryuu99",
-      "tanggal_daftar": "28-06-2026"
+      "tanggal_daftar": "28-06-2026",
+      "ban": true
     }
   ]
 }
