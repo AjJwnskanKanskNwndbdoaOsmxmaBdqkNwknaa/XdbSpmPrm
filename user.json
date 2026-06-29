@@ -492,7 +492,8 @@
     {
       "device_id": "767a73f4c048a8874533",
       "nama": "KISZaja",
-      "tanggal_daftar": "30-05-2026"
+      "tanggal_daftar": "30-05-2026",
+      "ban": true
     },
     {
       "device_id": "8098c19706b2c861e8f7",
