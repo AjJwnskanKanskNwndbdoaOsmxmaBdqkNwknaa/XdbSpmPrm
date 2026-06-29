@@ -674,7 +674,8 @@
     {
       "device_id": "9f47dc42b79d678f92df",
       "nama": "XY11N",
-      "tanggal_daftar": "03-06-2026"
+      "tanggal_daftar": "03-06-2026",
+      "ban": true
     },
     {
       "device_id": "be449c8c9cd02edcbb89",
