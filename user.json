@@ -1467,7 +1467,8 @@
     {
       "device_id": "8520e909d70bdf538745",
       "nama": "Svvagy",
-      "tanggal_daftar": "29-06-2026"
+      "tanggal_daftar": "29-06-2026",
+      "ban": true
     },
     {
       "device_id": "accd04497aa89f9fd6c8",
